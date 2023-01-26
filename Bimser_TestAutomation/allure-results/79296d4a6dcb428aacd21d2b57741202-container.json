@@ -1,0 +1,46 @@
+{
+  "uuid": "f4e7e755-258d-46e5-adc2-065761c6db3f-tc-0-1001",
+  "name": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifyLogo",
+  "children": [
+    "047482e3-4594-419d-83b9-f12975fb225d-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674716111326,
+      "stop": 1674716111326
+    }
+  ],
+  "afters": [
+    {
+      "name": "closeBrowser",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674716111326,
+      "stop": 1674716111326
+    }
+  ],
+  "links": [],
+  "start": 1674716111297,
+  "stop": 1674716111344
+}

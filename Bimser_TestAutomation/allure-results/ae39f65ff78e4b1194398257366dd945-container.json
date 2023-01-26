@@ -1,0 +1,46 @@
+{
+  "uuid": "9d8dc9d4-22e3-4ac4-aad1-4e4c53181653-tc-0-1001",
+  "name": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifySuccessfulLogOut",
+  "children": [
+    "3d4324b3-2c6c-4a42-9625-24579d530928-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674716127636,
+      "stop": 1674716127636
+    }
+  ],
+  "afters": [
+    {
+      "name": "closeBrowser",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1674716127636,
+      "stop": 1674716127636
+    }
+  ],
+  "links": [],
+  "start": 1674716123853,
+  "stop": 1674716127637
+}

@@ -1,0 +1,69 @@
+{
+  "uuid": "bd327888-5ceb-4aa0-988a-f23494f06d3b-tr-0-1003",
+  "historyId": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifySuccessfulLogin",
+  "fullName": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifySuccessfulLogin",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NOD30VC"
+    },
+    {
+      "name": "package",
+      "value": "Bimser_TestAutomation.Tests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "verifySuccessfulLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "TrendyolTest"
+    },
+    {
+      "name": "feature",
+      "value": "Buying The Cheapest Product From E-Commerce Website"
+    }
+  ],
+  "links": [],
+  "name": "verifySuccessfulLogin",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "verifySuccessfulLogin"
+  },
+  "stage": "finished",
+  "description": "This method verifies successful login.\n",
+  "steps": [
+    {
+      "name": "verifySuccessfulLogin",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "15c5d90185a34a5f91d60d95054a9df0-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1674716111351,
+      "stop": 1674716114875
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674716111351,
+  "stop": 1674716114875
+}

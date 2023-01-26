@@ -1,0 +1,69 @@
+{
+  "uuid": "7b70ddc6-1a9e-4909-8142-fa7be34e787b-tr-0-1004",
+  "historyId": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifyProduct",
+  "fullName": "Bimser_TestAutomation.Tests.TestCases.TrendyolTest.verifyProduct",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NOD30VC"
+    },
+    {
+      "name": "package",
+      "value": "Bimser_TestAutomation.Tests.TestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "verifyProduct"
+    },
+    {
+      "name": "testClass",
+      "value": "TrendyolTest"
+    },
+    {
+      "name": "feature",
+      "value": "Buying The Cheapest Product From E-Commerce Website"
+    }
+  ],
+  "links": [],
+  "name": "verifyProduct",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "verifyProduct"
+  },
+  "stage": "finished",
+  "description": "This method verifies that the correct product has been purchased.\n",
+  "steps": [
+    {
+      "name": "verifyProduct",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6ea5a0c54f474e52a0369eea1e3f7ccd-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1674716114876,
+      "stop": 1674716123853
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1674716114876,
+  "stop": 1674716123853
+}
